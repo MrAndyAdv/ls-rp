@@ -1,0 +1,21 @@
+// PlayerTextDraw developed using Zamaroht's Textdraw Editor 1.0 [R3]
+
+new PlayerText:Textdraw0;
+
+// In OnPlayerConnect prefferably, we procced to create our textdraws:
+Textdraw0 = CreatePlayerTextDraw(playerid, 320.000000, 0.000000, "_");
+PlayerTextDrawAlignment(playerid, Textdraw0, 2);
+PlayerTextDrawBackgroundColor(playerid, Textdraw0, 255);
+PlayerTextDrawFont(playerid, Textdraw0, 1);
+PlayerTextDrawLetterSize(playerid, Textdraw0, 0.500000, 53.000000);
+PlayerTextDrawColor(playerid, Textdraw0, -1);
+PlayerTextDrawSetOutline(playerid, Textdraw0, 0);
+PlayerTextDrawSetProportional(playerid, Textdraw0, 1);
+PlayerTextDrawSetShadow(playerid, Textdraw0, 1);
+PlayerTextDrawUseBox(playerid, Textdraw0, 1);
+PlayerTextDrawBoxColor(playerid, Textdraw0, -14837680);
+PlayerTextDrawTextSize(playerid, Textdraw0, 0.000000, 1215.000000);
+PlayerTextDrawSetSelectable(playerid, Textdraw0, 0);
+
+// Èñïîëüçóéòå ôóíêöèè PlayerTextDrawShow, PlayerTextDrawHide è
+// PlayerTextDrawDestroy äëÿ ïîêàçà, ñêðûòèÿ, è óäàëåíèÿ textdraw'à.

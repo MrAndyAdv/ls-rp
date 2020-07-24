@@ -1,0 +1,772 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:20:49] filterscripts = ""  (string)
+[13:20:49] 
+[13:20:49] Server Plugins
+[13:20:49] --------------
+[13:20:49]  Loading plugin: crashdetect.so
+[13:20:49]   CrashDetect v4.15.1 is OK.
+[13:20:49]   Loaded.
+[13:20:49]  Loading plugin: mysql_static.so
+[13:20:49]  >> plugin.mysql: R39-6 successfully loaded.
+[13:20:49]   Loaded.
+[13:20:49]  Loading plugin: streamer.so
+[13:20:49] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[13:20:49]   Loaded.
+[13:20:49]  Loading plugin: sscanf.so
+[13:20:49] 
+
+[13:20:49]  ===============================
+
+[13:20:49]       sscanf plugin loaded.     
+
+[13:20:49]          Version:  2.8.1        
+
+[13:20:49]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:20:49]  ===============================
+
+[13:20:49]   Loaded.
+[13:20:49]  Loading plugin: Whirlpool.so
+[13:20:49]  
+[13:20:49]  ==================
+[13:20:49]  
+[13:20:49]   Whirlpool loaded
+[13:20:49]  
+[13:20:49]  ==================
+[13:20:49]  
+[13:20:49]   Loaded.
+[13:20:49]  Loading plugin: dc_cmd.so
+[13:20:49]   Daniel's CMD plugin v2.8
+[13:20:49]     (c) 2014 Daniel_Cortez
+[13:20:49] 	www.pro-pawn.ru
+[13:20:49]   Loaded.
+[13:20:49]  Loading plugin: TOTP.so
+[13:20:49] TOTP plugin v1.0.0 by Games loaded.
+[13:20:49]   Loaded.
+[13:20:49]  Loaded 7 plugins.
+
+[13:20:49] 
+[13:20:49] Filterscripts
+[13:20:49] ---------------
+[13:20:49]   Loaded 0 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:20:49] filterscripts = ""  (string)
+[13:20:49] 
+[13:20:49] Server Plugins
+[13:20:49] --------------
+[13:20:49]  Loading plugin: crashdetect.so
+[13:20:49]   CrashDetect v4.15.1 is OK.
+[13:20:49]   Loaded.
+[13:20:49]  Loading plugin: mysql_static.so
+[13:20:49]  >> plugin.mysql: R39-6 successfully loaded.
+[13:20:49]   Loaded.
+[13:20:49]  Loading plugin: streamer.so
+[13:20:49] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[13:20:49]   Loaded.
+[13:20:49]  Loading plugin: sscanf.so
+[13:20:49] 
+
+[13:20:49]  ===============================
+
+[13:20:49]       sscanf plugin loaded.     
+
+[13:20:49]          Version:  2.8.1        
+
+[13:20:49]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:20:49]  ===============================
+
+[13:20:49]   Loaded.
+[13:20:49]  Loading plugin: Whirlpool.so
+[13:20:49]  
+[13:20:49]  ==================
+[13:20:49]  
+[13:20:49]   Whirlpool loaded
+[13:20:49]  
+[13:20:49]  ==================
+[13:20:49]  
+[13:20:49]   Loaded.
+[13:20:49]  Loading plugin: dc_cmd.so
+[13:20:49]   Daniel's CMD plugin v2.8
+[13:20:49]     (c) 2014 Daniel_Cortez
+[13:20:49] 	www.pro-pawn.ru
+[13:20:49]   Loaded.
+[13:20:49]  Loading plugin: TOTP.so
+[13:20:49] TOTP plugin v1.0.0 by Games loaded.
+[13:20:49]   Loaded.
+[13:20:49]  Loaded 7 plugins.
+
+[13:20:49] 
+[13:20:49] Filterscripts
+[13:20:49] ---------------
+[13:20:49]   Loaded 0 filterscripts.
+
+[13:20:50]  
+[13:20:50]  
+[13:20:50]  
+[13:20:50]  ======================================= 
+[13:20:50]  |                                     | 
+[13:20:50]  |        YSI version 3.09.0684        | 
+[13:20:50]  |        By Alex "Y_Less" Cole        | 
+[13:20:50]  |                                     | 
+[13:20:50]  ======================================= 
+[13:20:50]  
+[13:20:50]  
+[13:20:50]  
+[13:20:50]  
+[13:20:50]  ======================================= 
+[13:20:50]  |                                     | 
+[13:20:50]  |        YSI version 3.09.0684        | 
+[13:20:50]  |        By Alex "Y_Less" Cole        | 
+[13:20:50]  |                                     | 
+[13:20:50]  ======================================= 
+[13:20:50]  
+[13:20:50] 
+--------------------------------------
+[13:20:50]  Mapping for Los Santos Life
+[13:20:50]  Objects: 27261
+[13:20:50] --------------------------------------
+
+[13:20:50]   Filterscript 'objects.amx' loaded.
+[13:20:50]   |--  LS BeachSide Elevator
+[13:20:50]   |---------------------------------------------------
+[13:20:50]   Filterscript 'ls_beachside.amx' loaded.
+[13:20:50] Подключен к eva.arizona-rp.com с именем пользователя clrp
+[13:20:50] Кодировка: cp1251
+[13:20:50] [BOT] LS Train - загружается
+[13:20:50] [BOT] SA Train - загружается
+[13:20:50] 
+*****************************************
+[13:20:50]  Los Santos Life Version - 0.6.7b
+[13:20:50]  Last Update game version - 11.03.2017
+[13:20:50] *******************************************
+
+[13:20:50] Number of vehicle models: 2
+[13:20:50] [Towers] Строк - 44. Загружено - 44. Затрачено: 1 ms.
+[13:20:50] [Garage] Записи не найдены.
+[13:20:50] [Labels] Строк - 40. Загружено - 40. Затрачено: 0 ms.
+[13:20:50] [Entrance] Строк - 33. Загружено - 33. Затрачено: 1 ms.
+[13:20:50] [Gates] Строк - 45. Загружено - 45. Затрачено: 0 ms.
+[13:20:50] [ATM] Строк - 19. Загружено - 19. Затрачено: 0 ms.
+[13:20:50] [Teles] Строк - 172. Загружено - 172. Затрачено: 1 ms.
+[13:20:50] [Objects] Строк - 55. Загружено - 55. Затрачено: 1 ms.
+[13:20:50] [CCTV] Записи не найдены.
+[13:20:50] [INFOS] Записи не найдены.
+[13:20:50] [Cars] Строк - 111. Загружено - 111. Затрачено: 3 ms.
+[13:20:50] [connection] 46.105.240.184:45392 requests connection cookie.
+[13:20:50] [connection] 46.105.240.184:49019 requests connection cookie.
+[13:20:50] 
+--------------------------------------
+[13:20:50]  Mapping for Los Santos Life
+[13:20:50]  Objects: 27261
+[13:20:50] --------------------------------------
+
+[13:20:50]   Filterscript 'objects.amx' loaded.
+[13:20:51] [Houses] Строк - 1462. Загружено - 1462. Затрачено: 100 ms.
+[13:20:51] [Apartments] Строк - 50. Загружено - 50. Затрачено: 1 ms.
+[13:20:51] [Biz] Строк - 143. Загружено - 143. Затрачено: 4 ms.
+[13:20:51] [FoodStand] Строк - 5. Загружено - 5. Затрачено: 0 ms.
+[13:20:51] [APBS] Строк - 2. Загружено - 1. Затрачено: 0 ms.
+[13:20:51] [Factions] Строк - 7. Загружено - 7. Затрачено: 1 ms.
+[13:20:51] [Jobs] Строк - 3. Загружено - 3. Затрачено: 0 ms.
+[13:20:51] [Radio] Записи не найдены.
+[13:20:51] [Plants] Записи не найдены.
+[13:20:51] [Truck Cargo] Строк - 61. Загружено - 61. Затрачено: 1 ms.
+[13:20:51]   |--  LS BeachSide Elevator
+[13:20:51]   |---------------------------------------------------
+[13:20:51]   Filterscript 'ls_beachside.amx' loaded.
+[13:20:51] Подключен к eva.arizona-rp.com с именем пользователя clrp
+[13:20:51] Кодировка: cp1251
+[13:20:51] [BOT] LS Train - загружается
+[13:20:51] [BOT] SA Train - загружается
+[13:20:51] 
+*****************************************
+[13:20:51]  Los Santos Life Version - 0.6.7b
+[13:20:51]  Last Update game version - 11.03.2017
+[13:20:51] *******************************************
+
+[13:20:51] Number of vehicle models: 2
+[13:20:51] [Towers] Строк - 44. Загружено - 44. Затрачено: 0 ms.
+[13:20:51] [Garage] Записи не найдены.
+[13:20:51] [Labels] Строк - 40. Загружено - 40. Затрачено: 1 ms.
+[13:20:51] [Entrance] Строк - 33. Загружено - 33. Затрачено: 0 ms.
+[13:20:51] [Gates] Строк - 45. Загружено - 45. Затрачено: 1 ms.
+[13:20:51] [ATM] Строк - 19. Загружено - 19. Затрачено: 1 ms.
+[13:20:51] [Teles] Строк - 172. Загружено - 172. Затрачено: 1 ms.
+[13:20:51] [Objects] Строк - 55. Загружено - 55. Затрачено: 1 ms.
+[13:20:51] [CCTV] Записи не найдены.
+[13:20:51] [INFOS] Записи не найдены.
+[13:20:51] [connection] 46.105.240.184:34233 requests connection cookie.
+[13:20:51] [Cars] Строк - 111. Загружено - 111. Затрачено: 2 ms.
+[13:20:51] [connection] 46.105.240.184:37260 requests connection cookie.
+[13:20:51] [Houses] Строк - 1462. Загружено - 1462. Затрачено: 86 ms.
+[13:20:51] [Apartments] Строк - 50. Загружено - 50. Затрачено: 1 ms.
+[13:20:51] [Biz] Строк - 143. Загружено - 143. Затрачено: 5 ms.
+[13:20:51] [FoodStand] Строк - 5. Загружено - 5. Затрачено: 0 ms.
+[13:20:51] [APBS] Строк - 2. Загружено - 1. Затрачено: 0 ms.
+[13:20:51] [Factions] Строк - 7. Загружено - 7. Затрачено: 0 ms.
+[13:20:51] [Jobs] Строк - 3. Загружено - 3. Затрачено: 0 ms.
+[13:20:51] [Radio] Записи не найдены.
+[13:20:51] [Plants] Записи не найдены.
+[13:20:51] [Truck Cargo] Строк - 61. Загружено - 61. Затрачено: 2 ms.
+[13:20:51] [connection] incoming connection: 46.105.240.184:45392 id: 0
+[13:20:51] [connection] incoming connection: 46.105.240.184:49019 id: 1
+[13:20:52] [npc:join] LS_Train has joined the server (0:46.105.240.184)
+[13:20:52] [npc:join] SA_Train has joined the server (1:46.105.240.184)
+[13:20:52] [connection] incoming connection: 46.105.240.184:34233 id: 2
+[13:20:52] [connection] incoming connection: 46.105.240.184:37260 id: 3
+[13:21:00] --- Server Shutting Down.
+[13:21:00] --- Server Shutting Down.
+[13:21:00]   Filterscript 'objects.amx' unloaded.
+[13:21:00]   Filterscript 'objects.amx' unloaded.
+[13:21:00]   Filterscript 'ls_beachside.amx' unloaded.
+[13:21:00]   Filterscript 'ls_beachside.amx' unloaded.
+[13:21:00] [npc:part] LS_Train has left the server (0:0)
+[13:21:00] [npc:part] SA_Train has left the server (1:0)
+[13:21:00] plugin.mysql: Unloading plugin...
+[13:21:00] plugin.mysql: Plugin unloaded.
+[13:21:00] 
+
+*** Streamer Plugin v2.8.2 by Incognito unloaded ***
+
+[13:21:00] 
+
+[13:21:00]  ===============================
+
+[13:21:00]      sscanf plugin unloaded.    
+
+[13:21:00]  ===============================
+
+[13:21:00]  
+[13:21:00]  ====================
+[13:21:00]  
+[13:21:00]   Whirlpool unloaded
+[13:21:00]  
+[13:21:00]  ====================
+[13:21:00]  
+[13:21:00]   Daniel's CMD plugin got unloaded
+[13:21:00] TOTP plugin v1.0.0 by Games unloaded.
+[13:21:00] plugin.mysql: Unloading plugin...
+[13:21:00] plugin.mysql: Plugin unloaded.
+[13:21:00] 
+
+*** Streamer Plugin v2.8.2 by Incognito unloaded ***
+
+[13:21:00] 
+
+[13:21:00]  ===============================
+
+[13:21:00]      sscanf plugin unloaded.    
+
+[13:21:00]  ===============================
+
+[13:21:00]  
+[13:21:00]  ====================
+[13:21:00]  
+[13:21:00]   Whirlpool unloaded
+[13:21:00]  
+[13:21:00]  ====================
+[13:21:00]  
+[13:21:00]   Daniel's CMD plugin got unloaded
+[13:21:00] TOTP plugin v1.0.0 by Games unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:21:07] filterscripts = ""  (string)
+[13:21:07] 
+[13:21:07] Server Plugins
+[13:21:07] --------------
+[13:21:07]  Loading plugin: crashdetect.so
+[13:21:07]   CrashDetect v4.15.1 is OK.
+[13:21:07]   Loaded.
+[13:21:07]  Loading plugin: mysql_static.so
+[13:21:07]  >> plugin.mysql: R39-6 successfully loaded.
+[13:21:07]   Loaded.
+[13:21:07]  Loading plugin: streamer.so
+[13:21:07] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[13:21:07]   Loaded.
+[13:21:07]  Loading plugin: sscanf.so
+[13:21:07] 
+
+[13:21:07]  ===============================
+
+[13:21:07]       sscanf plugin loaded.     
+
+[13:21:07]          Version:  2.8.1        
+
+[13:21:07]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:21:07]  ===============================
+
+[13:21:07]   Loaded.
+[13:21:07]  Loading plugin: Whirlpool.so
+[13:21:07]  
+[13:21:07]  ==================
+[13:21:07]  
+[13:21:07]   Whirlpool loaded
+[13:21:07]  
+[13:21:07]  ==================
+[13:21:07]  
+[13:21:07]   Loaded.
+[13:21:07]  Loading plugin: dc_cmd.so
+[13:21:07]   Daniel's CMD plugin v2.8
+[13:21:07]     (c) 2014 Daniel_Cortez
+[13:21:07] 	www.pro-pawn.ru
+[13:21:07]   Loaded.
+[13:21:07]  Loading plugin: TOTP.so
+[13:21:07] TOTP plugin v1.0.0 by Games loaded.
+[13:21:07]   Loaded.
+[13:21:07]  Loaded 7 plugins.
+
+[13:21:07] 
+[13:21:07] Filterscripts
+[13:21:07] ---------------
+[13:21:07]   Loaded 0 filterscripts.
+
+[13:21:08]  
+[13:21:08]  
+[13:21:08]  
+[13:21:08]  ======================================= 
+[13:21:08]  |                                     | 
+[13:21:08]  |        YSI version 3.09.0684        | 
+[13:21:08]  |        By Alex "Y_Less" Cole        | 
+[13:21:08]  |                                     | 
+[13:21:08]  ======================================= 
+[13:21:08]  
+[13:21:08] 
+--------------------------------------
+[13:21:08]  Mapping for Los Santos Life
+[13:21:08]  Objects: 27261
+[13:21:08] --------------------------------------
+
+[13:21:08]   Filterscript 'objects.amx' loaded.
+[13:21:09]   |--  LS BeachSide Elevator
+[13:21:09]   |---------------------------------------------------
+[13:21:09]   Filterscript 'ls_beachside.amx' loaded.
+[13:21:09] Подключен к eva.arizona-rp.com с именем пользователя clrp
+[13:21:09] Кодировка: cp1251
+[13:21:09] [BOT] LS Train - загружается
+[13:21:09] [BOT] SA Train - загружается
+[13:21:09] 
+*****************************************
+[13:21:09]  Los Santos Life Version - 0.6.7b
+[13:21:09]  Last Update game version - 11.03.2017
+[13:21:09] *******************************************
+
+[13:21:09] Number of vehicle models: 2
+[13:21:09] [Towers] Строк - 44. Загружено - 44. Затрачено: 1 ms.
+[13:21:09] [Garage] Записи не найдены.
+[13:21:09] [Labels] Строк - 40. Загружено - 40. Затрачено: 0 ms.
+[13:21:09] [Entrance] Строк - 33. Загружено - 33. Затрачено: 1 ms.
+[13:21:09] [connection] 46.105.240.184:36581 requests connection cookie.
+[13:21:09] [Gates] Строк - 45. Загружено - 45. Затрачено: 1 ms.
+[13:21:09] [ATM] Строк - 19. Загружено - 19. Затрачено: 0 ms.
+[13:21:09] [Teles] Строк - 172. Загружено - 172. Затрачено: 1 ms.
+[13:21:09] [Objects] Строк - 55. Загружено - 55. Затрачено: 1 ms.
+[13:21:09] [CCTV] Записи не найдены.
+[13:21:09] [INFOS] Записи не найдены.
+[13:21:09] [Cars] Строк - 111. Загружено - 111. Затрачено: 2 ms.
+[13:21:09] [connection] 46.105.240.184:38299 requests connection cookie.
+[13:21:09] [Houses] Строк - 1462. Загружено - 1462. Затрачено: 73 ms.
+[13:21:09] [Apartments] Строк - 50. Загружено - 50. Затрачено: 1 ms.
+[13:21:09] [Biz] Строк - 143. Загружено - 143. Затрачено: 3 ms.
+[13:21:09] [FoodStand] Строк - 5. Загружено - 5. Затрачено: 0 ms.
+[13:21:09] [APBS] Строк - 2. Загружено - 1. Затрачено: 0 ms.
+[13:21:09] [Factions] Строк - 7. Загружено - 7. Затрачено: 0 ms.
+[13:21:09] [Jobs] Строк - 3. Загружено - 3. Затрачено: 0 ms.
+[13:21:09] [Radio] Записи не найдены.
+[13:21:09] [Plants] Записи не найдены.
+[13:21:09] [Truck Cargo] Строк - 61. Загружено - 61. Затрачено: 1 ms.
+[13:21:10] [connection] incoming connection: 46.105.240.184:36581 id: 0
+[13:21:10] [connection] incoming connection: 46.105.240.184:38299 id: 1
+[13:21:10] [npc:join] LS_Train has joined the server (0:46.105.240.184)
+[13:21:10] [npc:join] SA_Train has joined the server (1:46.105.240.184)
+[13:25:32] [connection] 91.236.140.126:57257 requests connection cookie.
+[13:25:33] [connection] incoming connection: 91.236.140.126:57257 id: 2
+[13:25:33] [join] dema has joined the server (2:91.236.140.126)
+[13:26:11] [part] dema has left the server (2:2)
+[13:28:50] [connection] 91.236.140.126:64882 requests connection cookie.
+[13:28:51] [connection] incoming connection: 91.236.140.126:64882 id: 2
+[13:28:51] [join] dema has joined the server (2:91.236.140.126)
+[13:28:52] [chat] [dema]: de
+[13:29:16] [nick] dema nick changed to Amanda_Morrison
+[13:42:03] [part] Amanda_Morrison has left the server (2:1)
+[13:42:03] <|| error: Unknown column 'fish_time' in 'field list' | callback:  | query: UPDATE `users` SET `armour`='0.000000',`cash`='926749',`bank`='3800',`skin`='56',`sex`='2',`level`='3',`exp`='13',`hours`='17',`admin_hide`='0',`int`='0',`world`='0',`channel`='0',`owned_channel`='0',`authed`='0',`ajailed`='0',`ajailtime`='0',`jailed`='0',`isolatetime`='0',`warns`='0',`vip`='2',`carlic`='1',`weplic`='1',`flylic`='0',`taxilic`='0',`settings`='0',`dependence`='98',`demolition`='916',`arrested`='0',`chat`='0',`authwep`='0',`swat`='0',`swat_duty`='0',`job`='0',`career`='17',`fightstyle`='4',`hud`='4',`paycheck`='10600',`fishcount`='0',`fish_time`='0',`upgrade`='2',`paydaytime`='57',`spawnhealth`='0.000000',`number`='1234',`savings`='0',`rent_key`='0',`rent_price`='0',`weap0`='0',`weap1`='0',`weap2`='0',`weap3`='0',`ammo0`='0',`ammo1`='0',`ammo2`='0',`ammo3`='0',`mutetime`='0',`phone_off`='0',`phone_airplane`='0',`phone_sound`='0',`phone_model`='0',`phone_ringtone`='0',`phone_style`='0',`sparekey`='0',`workon`='0' WHERE `id`='1' ||>
+[13:44:27] --- Server Shutting Down.
+[13:44:27]   Filterscript 'objects.amx' unloaded.
+[13:44:27]   Filterscript 'ls_beachside.amx' unloaded.
+[13:44:27] [npc:part] LS_Train has left the server (0:0)
+[13:44:27] [npc:part] SA_Train has left the server (1:0)
+[13:44:27] plugin.mysql: Unloading plugin...
+[13:44:27] plugin.mysql: Plugin unloaded.
+[13:44:27] 
+
+*** Streamer Plugin v2.8.2 by Incognito unloaded ***
+
+[13:44:27] 
+
+[13:44:27]  ===============================
+
+[13:44:27]      sscanf plugin unloaded.    
+
+[13:44:27]  ===============================
+
+[13:44:27]  
+[13:44:27]  ====================
+[13:44:27]  
+[13:44:27]   Whirlpool unloaded
+[13:44:27]  
+[13:44:27]  ====================
+[13:44:27]  
+[13:44:27]   Daniel's CMD plugin got unloaded
+[13:44:27] TOTP plugin v1.0.0 by Games unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:46:05] filterscripts = ""  (string)
+[13:46:05] 
+[13:46:05] Server Plugins
+[13:46:05] --------------
+[13:46:05]  Loading plugin: crashdetect.so
+[13:46:05]   CrashDetect v4.15.1 is OK.
+[13:46:05]   Loaded.
+[13:46:05]  Loading plugin: mysql_static.so
+[13:46:05]  >> plugin.mysql: R39-6 successfully loaded.
+[13:46:05]   Loaded.
+[13:46:05]  Loading plugin: streamer.so
+[13:46:05] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[13:46:05]   Loaded.
+[13:46:05]  Loading plugin: sscanf.so
+[13:46:05] 
+
+[13:46:05]  ===============================
+
+[13:46:05]       sscanf plugin loaded.     
+
+[13:46:05]          Version:  2.8.1        
+
+[13:46:05]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:46:05]  ===============================
+
+[13:46:05]   Loaded.
+[13:46:05]  Loading plugin: Whirlpool.so
+[13:46:05]  
+[13:46:05]  ==================
+[13:46:05]  
+[13:46:05]   Whirlpool loaded
+[13:46:05]  
+[13:46:05]  ==================
+[13:46:05]  
+[13:46:05]   Loaded.
+[13:46:05]  Loading plugin: dc_cmd.so
+[13:46:05]   Daniel's CMD plugin v2.8
+[13:46:05]     (c) 2014 Daniel_Cortez
+[13:46:05] 	www.pro-pawn.ru
+[13:46:05]   Loaded.
+[13:46:05]  Loading plugin: TOTP.so
+[13:46:05] TOTP plugin v1.0.0 by Games loaded.
+[13:46:05]   Loaded.
+[13:46:05]  Loaded 7 plugins.
+
+[13:46:05] 
+[13:46:05] Filterscripts
+[13:46:05] ---------------
+[13:46:05]   Loaded 0 filterscripts.
+
+[13:46:06]  
+[13:46:06]  
+[13:46:06]  
+[13:46:06]  ======================================= 
+[13:46:06]  |                                     | 
+[13:46:06]  |        YSI version 3.09.0684        | 
+[13:46:06]  |        By Alex "Y_Less" Cole        | 
+[13:46:06]  |                                     | 
+[13:46:06]  ======================================= 
+[13:46:06]  
+[13:46:06] 
+--------------------------------------
+[13:46:06]  Mapping for Los Santos Life
+[13:46:06]  Objects: 27261
+[13:46:06] --------------------------------------
+
+[13:46:06]   Filterscript 'objects.amx' loaded.
+[13:46:06]   |--  LS BeachSide Elevator
+[13:46:06]   |---------------------------------------------------
+[13:46:06]   Filterscript 'ls_beachside.amx' loaded.
+[13:46:06] Подключен к eva.arizona-rp.com с именем пользователя clrp
+[13:46:06] Кодировка: cp1251
+[13:46:06] [BOT] LS Train - загружается
+[13:46:06] [BOT] SA Train - загружается
+[13:46:06] 
+*****************************************
+[13:46:06]  Los Santos Life Version - 0.6.7b
+[13:46:06]  Last Update game version - 11.03.2017
+[13:46:06] *******************************************
+
+[13:46:06] Number of vehicle models: 2
+[13:46:06] [Towers] Строк - 44. Загружено - 44. Затрачено: 1 ms.
+[13:46:06] [Garage] Записи не найдены.
+[13:46:06] [Labels] Строк - 40. Загружено - 40. Затрачено: 1 ms.
+[13:46:06] [Entrance] Строк - 33. Загружено - 33. Затрачено: 0 ms.
+[13:46:06] [Gates] Строк - 45. Загружено - 45. Затрачено: 1 ms.
+[13:46:06] [ATM] Строк - 19. Загружено - 19. Затрачено: 1 ms.
+[13:46:06] [Teles] Строк - 172. Загружено - 172. Затрачено: 1 ms.
+[13:46:06] [Objects] Строк - 55. Загружено - 55. Затрачено: 1 ms.
+[13:46:06] [CCTV] Записи не найдены.
+[13:46:06] [INFOS] Записи не найдены.
+[13:46:06] [Cars] Строк - 111. Загружено - 111. Затрачено: 3 ms.
+[13:46:06] [connection] 46.105.240.184:52232 requests connection cookie.
+[13:46:06] [connection] 46.105.240.184:46088 requests connection cookie.
+[13:46:07] [Houses] Строк - 1462. Загружено - 1462. Затрачено: 95 ms.
+[13:46:07] [Apartments] Строк - 50. Загружено - 50. Затрачено: 1 ms.
+[13:46:07] [Biz] Строк - 143. Загружено - 143. Затрачено: 6 ms.
+[13:46:07] [FoodStand] Строк - 5. Загружено - 5. Затрачено: 0 ms.
+[13:46:07] [APBS] Строк - 2. Загружено - 1. Затрачено: 0 ms.
+[13:46:07] [Factions] Строк - 7. Загружено - 7. Затрачено: 0 ms.
+[13:46:07] [Jobs] Строк - 3. Загружено - 3. Затрачено: 0 ms.
+[13:46:07] [Radio] Записи не найдены.
+[13:46:07] [Plants] Записи не найдены.
+[13:46:07] [Truck Cargo] Строк - 61. Загружено - 61. Затрачено: 1 ms.
+[13:46:07] [connection] incoming connection: 46.105.240.184:52232 id: 0
+[13:46:07] [connection] incoming connection: 46.105.240.184:46088 id: 1
+[13:46:08] [npc:join] LS_Train has joined the server (0:46.105.240.184)
+[13:46:08] [npc:join] SA_Train has joined the server (1:46.105.240.184)
+[14:06:37] [connection] 217.66.152.198:31537 requests connection cookie.
+[14:06:38] [connection] incoming connection: 217.66.152.198:31537 id: 2
+[14:06:38] [join] ri4erson has joined the server (2:217.66.152.198)
+[14:07:32] [nick] ri4erson nick changed to James_Richerson
+[14:10:29] [connection] 109.187.175.143:60024 requests connection cookie.
+[14:10:30] [connection] 109.187.175.143:60024 requests connection cookie.
+[14:10:31] [connection] incoming connection: 109.187.175.143:60024 id: 3
+[14:10:32] [join] Simba has joined the server (3:109.187.175.143)
+[14:10:42] [nick] Simba nick changed to Freja_Erichsen
+[14:11:04] [chat] [Freja_Erichsen]: ооо 
+[14:11:08] [chat] [Freja_Erichsen]: мне вон та нраится
+[14:17:33]   Filterscript 'objects.amx' unloaded.
+[14:17:33] 
+--------------------------------------
+[14:17:33]  Mapping for Los Santos Life
+[14:17:33]  Objects: 28788
+[14:17:33] --------------------------------------
+
+[14:17:33]   Filterscript 'objects.amx' loaded.
+[14:17:36] [connection] 193.242.149.3:57289 requests connection cookie.
+[14:17:37] [connection] incoming connection: 193.242.149.3:57289 id: 4
+[14:17:37] [join] umka has joined the server (4:193.242.149.3)
+[14:17:47] [nick] umka nick changed to Miroslav_Zaslavsky
+[14:17:56] [part] Miroslav_Zaslavsky has left the server (4:1)
+[14:17:56] <|| error: Unknown column 'fish_time' in 'field list' | callback:  | query: UPDATE `users` SET `armour`='0.000000',`cash`='10170',`bank`='4000',`skin`='125',`sex`='1',`level`='1',`exp`='0',`hours`='4',`admin_hide`='0',`int`='0',`world`='0',`channel`='0',`owned_channel`='0',`authed`='0',`ajailed`='0',`ajailtime`='0',`jailed`='0',`isolatetime`='0',`warns`='0',`vip`='0',`carlic`='0',`weplic`='0',`flylic`='0',`taxilic`='0',`settings`='0',`dependence`='93',`demolition`='5013',`arrested`='0',`chat`='0',`authwep`='0',`swat`='0',`swat_duty`='0',`job`='0',`career`='4',`fightstyle`='0',`hud`='1',`paycheck`='2250',`fishcount`='0',`fish_time`='0',`upgrade`='0',`paydaytime`='14',`spawnhealth`='10.000000',`number`='0',`savings`='0',`rent_key`='0',`rent_price`='0',`weap0`='0',`weap1`='24',`weap2`='0',`weap3`='0',`ammo0`='0',`ammo1`='100',`ammo2`='0',`ammo3`='0',`mutetime`='0',`phone_off`='0',`phone_airplane`='0',`phone_sound`='0',`phone_model`='0',`phone_ringtone`='0',`phone_style`='0',`sparekey`='0',`workon`='0' WHERE `id`='9' ||>
+[14:26:46] [part] James_Richerson has left the server (2:1)
+[14:26:46] <|| error: Unknown column 'fish_time' in 'field list' | callback:  | query: UPDATE `users` SET `armour`='100.000000',`cash`='1995',`bank`='4000',`skin`='289',`sex`='1',`level`='1',`exp`='2',`hours`='6',`admin_hide`='0',`int`='1',`world`='2',`channel`='0',`owned_channel`='0',`authed`='0',`ajailed`='0',`ajailtime`='0',`jailed`='0',`isolatetime`='0',`warns`='0',`vip`='0',`carlic`='0',`weplic`='0',`flylic`='0',`taxilic`='0',`settings`='0',`dependence`='0',`demolition`='0',`arrested`='0',`chat`='0',`authwep`='0',`swat`='0',`swat_duty`='0',`job`='0',`career`='6',`fightstyle`='0',`hud`='1',`paycheck`='4300',`fishcount`='0',`fish_time`='0',`upgrade`='2',`paydaytime`='12',`spawnhealth`='0.000000',`number`='2847747',`savings`='0',`rent_key`='0',`rent_price`='0',`weap0`='0',`weap1`='0',`weap2`='0',`weap3`='0',`ammo0`='0',`ammo1`='0',`ammo2`='0',`ammo3`='0',`mutetime`='0',`phone_off`='0',`phone_airplane`='0',`phone_sound`='0',`phone_model`='0',`phone_ringtone`='0',`phone_style`='0',`sparekey`='0',`workon`='0' WHERE `id`='36' ||>
+[14:31:59] [connection] 37.212.227.160:41721 requests connection cookie.
+[14:32:00] [connection] 37.212.227.160:41721 requests connection cookie.
+[14:32:01] [connection] incoming connection: 37.212.227.160:41721 id: 2
+[14:32:01] [join] butthurt has joined the server (2:37.212.227.160)
+[14:32:19] [connection] 91.236.140.126:61367 requests connection cookie.
+[14:32:21] [connection] incoming connection: 91.236.140.126:61367 id: 4
+[14:32:21] [join] dema has joined the server (4:91.236.140.126)
+[14:32:22] [chat] [dema]: de
+[14:32:26] [nick] butthurt nick changed to Logan_Argent
+[14:32:29] [nick] dema nick changed to Amanda_Morrison
+[14:36:41] [chat] [Amanda_Morrison]: tok kak
+[14:36:48] [chat] [Logan_Argent]: ne ponyal
+[14:36:53] [chat] [Amanda_Morrison]: грузовики через это говно будут проезжать
+[14:36:54] [chat] [Amanda_Morrison]: хд
+[14:36:57] [chat] [Logan_Argent]: hahaha
+[14:37:00] [chat] [Amanda_Morrison]: или влезут?
+[14:37:03] [chat] [Amanda_Morrison]: влезут епта
+[14:37:08] [chat] [Logan_Argent]: должны
+[14:37:11] [chat] [Amanda_Morrison]: через городские шлагбаумы влезают
+[14:37:15] [chat] [Logan_Argent]: если они не такие широкие как яна
+[14:37:19] [chat] [Logan_Argent]: *cвист* ха
+[14:37:39] [chat] [Logan_Argent]: заспавнить бы проверить
+[14:40:01] [part] Logan_Argent has left the server (2:1)
+[14:40:01] <|| error: Unknown column 'fish_time' in 'field list' | callback:  | query: UPDATE `users` SET `armour`='0.000000',`cash`='1000',`bank`='0',`skin`='60',`sex`='1',`level`='0',`exp`='0',`hours`='0',`admin_hide`='0',`int`='0',`world`='0',`channel`='0',`owned_channel`='0',`authed`='0',`ajailed`='0',`ajailtime`='0',`jailed`='0',`isolatetime`='0',`warns`='0',`vip`='0',`carlic`='0',`weplic`='0',`flylic`='0',`taxilic`='0',`settings`='0',`dependence`='0',`demolition`='0',`arrested`='0',`chat`='0',`authwep`='0',`swat`='0',`swat_duty`='0',`job`='0',`career`='0',`fightstyle`='0',`hud`='1',`paycheck`='0',`fishcount`='0',`fish_time`='0',`upgrade`='0',`paydaytime`='54',`spawnhealth`='0.000000',`number`='0',`savings`='0',`rent_key`='0',`rent_price`='0',`weap0`='0',`weap1`='0',`weap2`='0',`weap3`='0',`ammo0`='0',`ammo1`='0',`ammo2`='0',`ammo3`='0',`mutetime`='0',`phone_off`='0',`phone_airplane`='0',`phone_sound`='0',`phone_model`='0',`phone_ringtone`='0',`phone_style`='0',`sparekey`='0',`workon`='0' WHERE `id`='15' ||>
+[14:41:11] [part] Freja_Erichsen has left the server (3:2)
+[14:41:11] [part] Amanda_Morrison has left the server (4:2)
+[14:41:11] <|| error: Unknown column 'fish_time' in 'field list' | callback:  | query: UPDATE `users` SET `armour`='0.000000',`cash`='231145',`bank`='14000',`skin`='93',`sex`='2',`level`='2',`exp`='7',`hours`='19',`admin_hide`='0',`int`='0',`world`='0',`channel`='0',`owned_channel`='0',`authed`='0',`ajailed`='0',`ajailtime`='0',`jailed`='0',`isolatetime`='0',`warns`='0',`vip`='0',`carlic`='0',`weplic`='0',`flylic`='0',`taxilic`='0',`settings`='1024',`dependence`='0',`demolition`='0',`arrested`='0',`chat`='2',`authwep`='0',`swat`='0',`swat_duty`='0',`job`='0',`career`='19',`fightstyle`='0',`hud`='1',`paycheck`='1450',`fishcount`='0',`fish_time`='0',`upgrade`='2',`paydaytime`='41',`spawnhealth`='10.000000',`number`='6918289',`savings`='0',`rent_key`='0',`rent_price`='0',`weap0`='0',`weap1`='24',`weap2`='0',`weap3`='0',`ammo0`='0',`ammo1`='17',`ammo2`='0',`ammo3`='0',`mutetime`='0',`phone_off`='0',`phone_airplane`='0',`phone_sound`='0',`phone_model`='0',`phone_ringtone`='0',`phone_style`='0',`sparekey`='118',`workon`='0' WHERE `id`='2' ||>
+[14:41:11] <|| error: Unknown column 'fish_time' in 'field list' | callback:  | query: UPDATE `users` SET `armour`='0.000000',`cash`='926749',`bank`='3800',`skin`='56',`sex`='2',`level`='3',`exp`='13',`hours`='17',`admin_hide`='0',`int`='1',`world`='1',`channel`='0',`owned_channel`='0',`authed`='0',`ajailed`='0',`ajailtime`='0',`jailed`='0',`isolatetime`='0',`warns`='0',`vip`='2',`carlic`='1',`weplic`='1',`flylic`='0',`taxilic`='0',`settings`='0',`dependence`='98',`demolition`='45',`arrested`='0',`chat`='0',`authwep`='0',`swat`='0',`swat_duty`='0',`job`='0',`career`='17',`fightstyle`='4',`hud`='4',`paycheck`='10600',`fishcount`='0',`fish_time`='0',`upgrade`='2',`paydaytime`='52',`spawnhealth`='0.000000',`number`='1234',`savings`='0',`rent_key`='0',`rent_price`='0',`weap0`='0',`weap1`='0',`weap2`='0',`weap3`='0',`ammo0`='0',`ammo1`='0',`ammo2`='0',`ammo3`='0',`mutetime`='0',`phone_off`='0',`phone_airplane`='0',`phone_sound`='0',`phone_model`='0',`phone_ringtone`='0',`phone_style`='0',`sparekey`='0',`workon`='0' WHERE `id`='1' ||>
+[14:41:13] [GMX] Запланированныйй рестарт сервера. Дата: 11/03/2017
+[14:41:13]   Filterscript 'objects.amx' unloaded.
+[14:41:13]   Filterscript 'ls_beachside.amx' unloaded.
+[14:41:14] [connection] 91.236.140.126:50492 requests connection cookie.
+[14:41:15] [connection] incoming connection: 91.236.140.126:50492 id: 2
+[14:41:25]  
+[14:41:25]  
+[14:41:25]  
+[14:41:25]  ======================================= 
+[14:41:25]  |                                     | 
+[14:41:25]  |        YSI version 3.09.0684        | 
+[14:41:25]  |        By Alex "Y_Less" Cole        | 
+[14:41:25]  |                                     | 
+[14:41:25]  ======================================= 
+[14:41:25]  
+[14:41:26] 
+--------------------------------------
+[14:41:26]  Mapping for Los Santos Life
+[14:41:26]  Objects: 28560
+[14:41:26] --------------------------------------
+
+[14:41:26]   Filterscript 'objects.amx' loaded.
+[14:41:26]   |--  LS BeachSide Elevator
+[14:41:26]   |---------------------------------------------------
+[14:41:26]   Filterscript 'ls_beachside.amx' loaded.
+[14:41:26] Подключен к eva.arizona-rp.com с именем пользователя clrp
+[14:41:26] Кодировка: cp1251
+[14:41:26] [BOT] LS Train - загружается
+[14:41:26] [BOT] SA Train - загружается
+[14:41:26] 
+*****************************************
+[14:41:26]  Los Santos Life Version - 0.6.7b
+[14:41:26]  Last Update game version - 11.03.2017
+[14:41:26] *******************************************
+
+[14:41:26] Number of vehicle models: 2
+[14:41:26] [Towers] Строк - 44. Загружено - 44. Затрачено: 1 ms.
+[14:41:26] [Garage] Записи не найдены.
+[14:41:26] [Labels] Строк - 42. Загружено - 42. Затрачено: 1 ms.
+[14:41:26] [Entrance] Строк - 31. Загружено - 31. Затрачено: 1 ms.
+[14:41:26] [Gates] Строк - 48. Загружено - 48. Затрачено: 1 ms.
+[14:41:26] [ATM] Строк - 19. Загружено - 19. Затрачено: 0 ms.
+[14:41:26] [Teles] Строк - 172. Загружено - 172. Затрачено: 1 ms.
+[14:41:26] [Objects] Строк - 55. Загружено - 55. Затрачено: 0 ms.
+[14:41:26] [CCTV] Записи не найдены.
+[14:41:26] [INFOS] Записи не найдены.
+[14:41:26] [connection] 46.105.240.184:48934 requests connection cookie.
+[14:41:26] [Cars] Строк - 111. Загружено - 111. Затрачено: 3 ms.
+[14:41:26] [connection] 46.105.240.184:34084 requests connection cookie.
+[14:41:26] [Houses] Строк - 1462. Загружено - 1462. Затрачено: 78 ms.
+[14:41:26] [Apartments] Строк - 50. Загружено - 50. Затрачено: 1 ms.
+[14:41:26] [Biz] Строк - 143. Загружено - 143. Затрачено: 3 ms.
+[14:41:26] [FoodStand] Строк - 5. Загружено - 5. Затрачено: 0 ms.
+[14:41:26] [APBS] Строк - 2. Загружено - 1. Затрачено: 0 ms.
+[14:41:26] [Factions] Строк - 7. Загружено - 7. Затрачено: 0 ms.
+[14:41:26] [Jobs] Строк - 3. Загружено - 3. Затрачено: 0 ms.
+[14:41:26] [Radio] Записи не найдены.
+[14:41:26] [Plants] Записи не найдены.
+[14:41:26] [Truck Cargo] Строк - 61. Загружено - 61. Затрачено: 1 ms.
+[14:41:27] [connection] incoming connection: 46.105.240.184:48934 id: 2
+[14:41:27] [connection] incoming connection: 46.105.240.184:34084 id: 3
+[14:42:31] [connection] incoming connection: 91.236.140.126:50523 id: 2
+[14:42:31] [join] Amanda_Morrison has joined the server (2:91.236.140.126)
+[14:42:33] [nick] Amanda_Morrison nick changed to dema
+[14:42:40] [nick] dema nick changed to Amanda_Morrison
+[14:43:51] [part] Amanda_Morrison has left the server (2:1)
+[14:43:51] <|| error: Unknown column 'fish_time' in 'field list' | callback:  | query: UPDATE `users` SET `armour`='0.000000',`cash`='926749',`bank`='3800',`skin`='56',`sex`='2',`level`='3',`exp`='13',`hours`='17',`admin_hide`='0',`int`='1',`world`='1',`channel`='0',`owned_channel`='0',`authed`='0',`ajailed`='0',`ajailtime`='0',`jailed`='0',`isolatetime`='0',`warns`='0',`vip`='2',`carlic`='1',`weplic`='1',`flylic`='0',`taxilic`='0',`settings`='0',`dependence`='98',`demolition`='484',`arrested`='0',`chat`='0',`authwep`='0',`swat`='0',`swat_duty`='0',`job`='0',`career`='17',`fightstyle`='4',`hud`='4',`paycheck`='10600',`fishcount`='0',`fish_time`='0',`upgrade`='2',`paydaytime`='45',`spawnhealth`='0.000000',`number`='1234',`savings`='0',`rent_key`='0',`rent_price`='0',`weap0`='0',`weap1`='0',`weap2`='0',`weap3`='0',`ammo0`='0',`ammo1`='0',`ammo2`='0',`ammo3`='0',`mutetime`='0',`phone_off`='0',`phone_airplane`='0',`phone_sound`='0',`phone_model`='0',`phone_ringtone`='0',`phone_style`='0',`sparekey`='0',`workon`='0' WHERE `id`='1' ||>
+[14:43:51] [connection] incoming connection: 91.236.140.126:50530 id: 2
+[14:43:52] [join] Amanda_Morrison has joined the server (2:91.236.140.126)
+[14:43:54] [nick] Amanda_Morrison nick changed to dema
+[14:44:53] [connection] 109.187.175.143:54877 requests connection cookie.
+[14:44:54] [connection] incoming connection: 109.187.175.143:54877 id: 3
+[14:44:54] [join] Simba has joined the server (3:109.187.175.143)
+[14:44:55] [part] dema has left the server (2:2)
+[14:45:03] [nick] Simba nick changed to Freja_Erichsen
+[14:46:17] [connection] 91.236.140.126:63539 requests connection cookie.
+[14:46:18] [connection] incoming connection: 91.236.140.126:63539 id: 2
+[14:46:18] [join] dema has joined the server (2:91.236.140.126)
+[14:46:26] [nick] dema nick changed to Amanda_Morrison
+[14:46:45] [part] Amanda_Morrison has left the server (2:1)
+[14:46:46] [connection] incoming connection: 91.236.140.126:61136 id: 2
+[14:46:46] [join] Amanda_Morrison has joined the server (2:91.236.140.126)
+[14:46:48] [nick] Amanda_Morrison nick changed to dema
+[14:46:54] [nick] dema nick changed to Amanda_Morrison
+[14:48:03] [chat] [Amanda_Morrison]: тут стой я нечайно вход удалил хд
+[14:48:36] [chat] [Amanda_Morrison]: da
+[14:48:40] [chat] [Freja_Erichsen]: ооо круто 
+[14:48:42] [chat] [Amanda_Morrison]: вчера еще с ричем
+[14:48:43] [chat] [Freja_Erichsen]: а гаражи?
+[14:48:59] [chat] [Freja_Erichsen]: вооо огонь 
+[14:49:08] [chat] [Freja_Erichsen]: а гаражи?
+[14:49:10] [chat] [Amanda_Morrison]: так маппинг передалл рич
+[14:49:13] [chat] [Amanda_Morrison]: а чо гаражи
+[14:49:18] [chat] [Amanda_Morrison]: это двери /makegate
+[14:49:23] [chat] [Freja_Erichsen]: ну типа въезд выезд без пикапов чтоб 
+[14:49:24] [chat] [Amanda_Morrison]: а гаражи makedoor
+[14:51:52] [chat] [Amanda_Morrison]: только тут кто то маппинг создал
+[14:51:56] [chat] [Amanda_Morrison]: какой то маппер
+[14:51:57] [chat] [Freja_Erichsen]: во норм где
+[14:52:06] [chat] [Amanda_Morrison]: видишь дверь одна открывается
+[14:52:10] [chat] [Amanda_Morrison]: кто то ее поставил сюда
+[14:52:20] [chat] [Freja_Erichsen]: угу , давно тот разраб езе в моде должно быть 
+[14:52:50] [chat] [Amanda_Morrison]: 18756
+[14:52:51] [chat] [Amanda_Morrison]: xtryb
+[14:52:55] [chat] [Amanda_Morrison]: чекнуть сможешь?
+[14:52:58] [chat] [Amanda_Morrison]: это дверь лифта?
+[14:53:08] [chat] [Freja_Erichsen]: щас гляну где то был мапп 
+[14:53:58] [chat] [Amanda_Morrison]: вроде нашел
+[14:53:58] [chat] [Amanda_Morrison]: ща
+[14:55:06]   Filterscript 'objects.amx' unloaded.
+[14:55:07] 
+--------------------------------------
+[14:55:07]  Mapping for Los Santos Life
+[14:55:07]  Objects: 28778
+[14:55:07] --------------------------------------
+
+[14:55:07]   Filterscript 'objects.amx' loaded.
+[14:55:29] [part] Amanda_Morrison has left the server (2:0)
+[14:55:43] [connection] 91.236.140.126:61159 requests connection cookie.
+[14:55:44] [connection] incoming connection: 91.236.140.126:61159 id: 2
+[14:55:45] [join] dema has joined the server (2:91.236.140.126)
+[14:55:54] [nick] dema nick changed to Amanda_Morrison
+[15:02:17] [chat] [Amanda_Morrison]:  /ban, /block
+[15:02:22] [part] Amanda_Morrison has left the server (2:2)
+[15:02:26] [connection] 91.236.140.126:63969 requests connection cookie.
+[15:02:27] [connection] incoming connection: 91.236.140.126:63969 id: 2
+[15:02:28] [join] Amanda_Morrison has joined the server (2:91.236.140.126)
+[15:02:30] [nick] Amanda_Morrison nick changed to dema
+[15:02:40] [nick] dema nick changed to Amanda_Morrison
+[15:02:43] [chat] [Amanda_Morrison]: aahahhaha
+[15:02:55] [chat] [Freja_Erichsen]: оооо так я унбан не вводила
+[15:03:06] [connection] 151.249.186.123:58249 requests connection cookie.
+[15:03:07] [connection] 151.249.186.123:58249 requests connection cookie.
+[15:03:08] [connection] incoming connection: 151.249.186.123:58249 id: 4
+[15:03:08] [join] Steven_Loni has joined the server (4:151.249.186.123)
+[15:03:10] [nick] Steven_Loni nick changed to stevenloni
+[15:03:21] [part] Amanda_Morrison has left the server (2:2)
+[15:03:23] [connection] incoming connection: 91.236.140.126:57572 id: 2
+[15:03:23] [join] Amanda_Morrison has joined the server (2:91.236.140.126)
+[15:03:25] [nick] Amanda_Morrison nick changed to dema
+[15:03:27] [nick] stevenloni nick changed to Steven_Loni
+[15:03:34] [part] dema has left the server (2:2)

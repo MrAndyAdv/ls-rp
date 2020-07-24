@@ -1,0 +1,77 @@
+[13:04:27 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[13:04:27 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[13:04:27 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[13:04:27 03/11/17] [ERROR] cache_get_field_content_int - invalid datatype
+[13:04:27 03/11/17] [ERROR] cache_get_field_content_int - invalid datatype
+[13:04:27 03/11/17] [ERROR] cache_get_field_content_int - invalid datatype
+[13:04:27 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[13:04:27 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[13:04:27 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[13:20:51 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[13:20:51 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[13:20:51 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[13:20:51 03/11/17] [ERROR] cache_get_field_content_int - invalid datatype
+[13:20:51 03/11/17] [ERROR] cache_get_field_content_int - invalid datatype
+[13:20:51 03/11/17] [ERROR] cache_get_field_content_int - invalid datatype
+[13:20:51 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[13:20:51 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[13:20:51 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[13:20:51 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[13:20:51 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[13:20:51 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[13:20:51 03/11/17] [ERROR] cache_get_field_content_int - invalid datatype
+[13:20:51 03/11/17] [ERROR] cache_get_field_content_int - invalid datatype
+[13:20:51 03/11/17] [ERROR] cache_get_field_content_int - invalid datatype
+[13:20:51 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[13:20:51 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[13:20:51 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[13:21:09 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[13:21:09 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[13:21:09 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[13:21:09 03/11/17] [ERROR] cache_get_field_content_int - invalid datatype
+[13:21:09 03/11/17] [ERROR] cache_get_field_content_int - invalid datatype
+[13:21:09 03/11/17] [ERROR] cache_get_field_content_int - invalid datatype
+[13:21:09 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[13:21:09 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[13:21:09 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[13:29:16 03/11/17] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fish_time") (Query: "SELECT users.*, accounts.admin, accounts.donate, accounts.helper, accounts.name_changes, accounts.number_changes FROM users, accounts WHERE users.id = 1 AND users.accountid = accounts.id")
+[13:29:16 03/11/17] [ERROR] cache_get_field_content_int - invalid datatype
+[13:42:03 03/11/17] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'fish_time' in 'field list' (Query: "UPDATE `users` SET `armour`='0.000000',`cash`='926749',`bank`='3800',`skin`='56',`sex`='2',`level`='3',`exp`='13',`hours`='17',`admin_hide`='0',`int`='0',`world`='0',`channel`='0',`owned_channel`='0',`authed`='0',`ajailed`='0',`ajailtime`='0',`jailed`='0',`isolatetime`='0',`warns`='0',`vip`='2',`carlic`='1',`weplic`='1',`flylic`='0',`taxilic`='0',`settings`='0',`dependence`='98',`demolition`='916',`arrested`='0',`chat`='0',`authwep`='0',`swat`='0',`swat_duty`='0',`job`='0',`career`='17',`fightstyle`='4',`hud`='4',`paycheck`='10600',`fishcount`='0',`fish_time`='0',`upgrade`='2',`paydaytime`='57',`spawnhealth`='0.000000',`number`='1234',`savings`='0',`rent_key`='0',`rent_price`='0',`weap0`='0',`weap1`='0',`weap2`='0',`weap3`='0',`ammo0`='0',`ammo1`='0',`ammo2`='0',`ammo3`='0',`mutetime`='0',`phone_off`='0',`phone_airplane`='0',`phone_sound`='0',`phone_model`='0',`phone_ringtone`='0',`phone_style`='0',`sparekey`='0',`workon`='0' WHERE `id`='1'")
+[13:46:07 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[13:46:07 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[13:46:07 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[13:46:07 03/11/17] [ERROR] cache_get_field_content_int - invalid datatype
+[13:46:07 03/11/17] [ERROR] cache_get_field_content_int - invalid datatype
+[13:46:07 03/11/17] [ERROR] cache_get_field_content_int - invalid datatype
+[13:46:07 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[13:46:07 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[13:46:07 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[14:07:32 03/11/17] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fish_time") (Query: "SELECT users.*, accounts.admin, accounts.donate, accounts.helper, accounts.name_changes, accounts.number_changes FROM users, accounts WHERE users.id = 36 AND users.accountid = accounts.id")
+[14:07:32 03/11/17] [ERROR] cache_get_field_content_int - invalid datatype
+[14:10:42 03/11/17] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fish_time") (Query: "SELECT users.*, accounts.admin, accounts.donate, accounts.helper, accounts.name_changes, accounts.number_changes FROM users, accounts WHERE users.id = 2 AND users.accountid = accounts.id")
+[14:10:42 03/11/17] [ERROR] cache_get_field_content_int - invalid datatype
+[14:17:47 03/11/17] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fish_time") (Query: "SELECT users.*, accounts.admin, accounts.donate, accounts.helper, accounts.name_changes, accounts.number_changes FROM users, accounts WHERE users.id = 9 AND users.accountid = accounts.id")
+[14:17:47 03/11/17] [ERROR] cache_get_field_content_int - invalid datatype
+[14:17:56 03/11/17] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'fish_time' in 'field list' (Query: "UPDATE `users` SET `armour`='0.000000',`cash`='10170',`bank`='4000',`skin`='125',`sex`='1',`level`='1',`exp`='0',`hours`='4',`admin_hide`='0',`int`='0',`world`='0',`channel`='0',`owned_channel`='0',`authed`='0',`ajailed`='0',`ajailtime`='0',`jailed`='0',`isolatetime`='0',`warns`='0',`vip`='0',`carlic`='0',`weplic`='0',`flylic`='0',`taxilic`='0',`settings`='0',`dependence`='93',`demolition`='5013',`arrested`='0',`chat`='0',`authwep`='0',`swat`='0',`swat_duty`='0',`job`='0',`career`='4',`fightstyle`='0',`hud`='1',`paycheck`='2250',`fishcount`='0',`fish_time`='0',`upgrade`='0',`paydaytime`='14',`spawnhealth`='10.000000',`number`='0',`savings`='0',`rent_key`='0',`rent_price`='0',`weap0`='0',`weap1`='24',`weap2`='0',`weap3`='0',`ammo0`='0',`ammo1`='100',`ammo2`='0',`ammo3`='0',`mutetime`='0',`phone_off`='0',`phone_airplane`='0',`phone_sound`='0',`phone_model`='0',`phone_ringtone`='0',`phone_style`='0',`sparekey`='0',`workon`='0' WHERE `id`='9'")
+[14:26:46 03/11/17] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'fish_time' in 'field list' (Query: "UPDATE `users` SET `armour`='100.000000',`cash`='1995',`bank`='4000',`skin`='289',`sex`='1',`level`='1',`exp`='2',`hours`='6',`admin_hide`='0',`int`='1',`world`='2',`channel`='0',`owned_channel`='0',`authed`='0',`ajailed`='0',`ajailtime`='0',`jailed`='0',`isolatetime`='0',`warns`='0',`vip`='0',`carlic`='0',`weplic`='0',`flylic`='0',`taxilic`='0',`settings`='0',`dependence`='0',`demolition`='0',`arrested`='0',`chat`='0',`authwep`='0',`swat`='0',`swat_duty`='0',`job`='0',`career`='6',`fightstyle`='0',`hud`='1',`paycheck`='4300',`fishcount`='0',`fish_time`='0',`upgrade`='2',`paydaytime`='12',`spawnhealth`='0.000000',`number`='2847747',`savings`='0',`rent_key`='0',`rent_price`='0',`weap0`='0',`weap1`='0',`weap2`='0',`weap3`='0',`ammo0`='0',`ammo1`='0',`ammo2`='0',`ammo3`='0',`mutetime`='0',`phone_off`='0',`phone_airplane`='0',`phone_sound`='0',`phone_model`='0',`phone_ringtone`='0',`phone_style`='0',`sparekey`='0',`workon`='0' WHERE `id`='36'")
+[14:32:26 03/11/17] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fish_time") (Query: "SELECT users.*, accounts.admin, accounts.donate, accounts.helper, accounts.name_changes, accounts.number_changes FROM users, accounts WHERE users.id = 15 AND users.accountid = accounts.id")
+[14:32:26 03/11/17] [ERROR] cache_get_field_content_int - invalid datatype
+[14:32:29 03/11/17] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fish_time") (Query: "SELECT users.*, accounts.admin, accounts.donate, accounts.helper, accounts.name_changes, accounts.number_changes FROM users, accounts WHERE users.id = 1 AND users.accountid = accounts.id")
+[14:32:29 03/11/17] [ERROR] cache_get_field_content_int - invalid datatype
+[14:40:01 03/11/17] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'fish_time' in 'field list' (Query: "UPDATE `users` SET `armour`='0.000000',`cash`='1000',`bank`='0',`skin`='60',`sex`='1',`level`='0',`exp`='0',`hours`='0',`admin_hide`='0',`int`='0',`world`='0',`channel`='0',`owned_channel`='0',`authed`='0',`ajailed`='0',`ajailtime`='0',`jailed`='0',`isolatetime`='0',`warns`='0',`vip`='0',`carlic`='0',`weplic`='0',`flylic`='0',`taxilic`='0',`settings`='0',`dependence`='0',`demolition`='0',`arrested`='0',`chat`='0',`authwep`='0',`swat`='0',`swat_duty`='0',`job`='0',`career`='0',`fightstyle`='0',`hud`='1',`paycheck`='0',`fishcount`='0',`fish_time`='0',`upgrade`='0',`paydaytime`='54',`spawnhealth`='0.000000',`number`='0',`savings`='0',`rent_key`='0',`rent_price`='0',`weap0`='0',`weap1`='0',`weap2`='0',`weap3`='0',`ammo0`='0',`ammo1`='0',`ammo2`='0',`ammo3`='0',`mutetime`='0',`phone_off`='0',`phone_airplane`='0',`phone_sound`='0',`phone_model`='0',`phone_ringtone`='0',`phone_style`='0',`sparekey`='0',`workon`='0' WHERE `id`='15'")
+[14:41:11 03/11/17] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'fish_time' in 'field list' (Query: "UPDATE `users` SET `armour`='0.000000',`cash`='231145',`bank`='14000',`skin`='93',`sex`='2',`level`='2',`exp`='7',`hours`='19',`admin_hide`='0',`int`='0',`world`='0',`channel`='0',`owned_channel`='0',`authed`='0',`ajailed`='0',`ajailtime`='0',`jailed`='0',`isolatetime`='0',`warns`='0',`vip`='0',`carlic`='0',`weplic`='0',`flylic`='0',`taxilic`='0',`settings`='1024',`dependence`='0',`demolition`='0',`arrested`='0',`chat`='2',`authwep`='0',`swat`='0',`swat_duty`='0',`job`='0',`career`='19',`fightstyle`='0',`hud`='1',`paycheck`='1450',`fishcount`='0',`fish_time`='0',`upgrade`='2',`paydaytime`='41',`spawnhealth`='10.000000',`number`='6918289',`savings`='0',`rent_key`='0',`rent_price`='0',`weap0`='0',`weap1`='24',`weap2`='0',`weap3`='0',`ammo0`='0',`ammo1`='17',`ammo2`='0',`ammo3`='0',`mutetime`='0',`phone_off`='0',`phone_airplane`='0',`phone_sound`='0',`phone_model`='0',`phone_ringtone`='0',`phone_style`='0',`sparekey`='118',`workon`='0' WHERE `id`='2'")
+[14:41:11 03/11/17] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'fish_time' in 'field list' (Query: "UPDATE `users` SET `armour`='0.000000',`cash`='926749',`bank`='3800',`skin`='56',`sex`='2',`level`='3',`exp`='13',`hours`='17',`admin_hide`='0',`int`='1',`world`='1',`channel`='0',`owned_channel`='0',`authed`='0',`ajailed`='0',`ajailtime`='0',`jailed`='0',`isolatetime`='0',`warns`='0',`vip`='2',`carlic`='1',`weplic`='1',`flylic`='0',`taxilic`='0',`settings`='0',`dependence`='98',`demolition`='45',`arrested`='0',`chat`='0',`authwep`='0',`swat`='0',`swat_duty`='0',`job`='0',`career`='17',`fightstyle`='4',`hud`='4',`paycheck`='10600',`fishcount`='0',`fish_time`='0',`upgrade`='2',`paydaytime`='52',`spawnhealth`='0.000000',`number`='1234',`savings`='0',`rent_key`='0',`rent_price`='0',`weap0`='0',`weap1`='0',`weap2`='0',`weap3`='0',`ammo0`='0',`ammo1`='0',`ammo2`='0',`ammo3`='0',`mutetime`='0',`phone_off`='0',`phone_airplane`='0',`phone_sound`='0',`phone_model`='0',`phone_ringtone`='0',`phone_style`='0',`sparekey`='0',`workon`='0' WHERE `id`='1'")
+[14:41:26 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[14:41:26 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[14:41:26 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[14:41:26 03/11/17] [ERROR] cache_get_field_content_int - invalid datatype
+[14:41:26 03/11/17] [ERROR] cache_get_field_content_int - invalid datatype
+[14:41:26 03/11/17] [ERROR] cache_get_field_content_int - invalid datatype
+[14:41:26 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[14:41:26 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[14:41:26 03/11/17] [ERROR] cache_get_field_content_float - invalid datatype
+[14:42:40 03/11/17] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fish_time") (Query: "SELECT users.*, accounts.admin, accounts.donate, accounts.helper, accounts.name_changes, accounts.number_changes FROM users, accounts WHERE users.id = 1 AND users.accountid = accounts.id")
+[14:42:40 03/11/17] [ERROR] cache_get_field_content_int - invalid datatype
+[14:43:51 03/11/17] [ERROR] CMySQLQuery::Execute[] - (error #1054) Unknown column 'fish_time' in 'field list' (Query: "UPDATE `users` SET `armour`='0.000000',`cash`='926749',`bank`='3800',`skin`='56',`sex`='2',`level`='3',`exp`='13',`hours`='17',`admin_hide`='0',`int`='1',`world`='1',`channel`='0',`owned_channel`='0',`authed`='0',`ajailed`='0',`ajailtime`='0',`jailed`='0',`isolatetime`='0',`warns`='0',`vip`='2',`carlic`='1',`weplic`='1',`flylic`='0',`taxilic`='0',`settings`='0',`dependence`='98',`demolition`='484',`arrested`='0',`chat`='0',`authwep`='0',`swat`='0',`swat_duty`='0',`job`='0',`career`='17',`fightstyle`='4',`hud`='4',`paycheck`='10600',`fishcount`='0',`fish_time`='0',`upgrade`='2',`paydaytime`='45',`spawnhealth`='0.000000',`number`='1234',`savings`='0',`rent_key`='0',`rent_price`='0',`weap0`='0',`weap1`='0',`weap2`='0',`weap3`='0',`ammo0`='0',`ammo1`='0',`ammo2`='0',`ammo3`='0',`mutetime`='0',`phone_off`='0',`phone_airplane`='0',`phone_sound`='0',`phone_model`='0',`phone_ringtone`='0',`phone_style`='0',`sparekey`='0',`workon`='0' WHERE `id`='1'")
+[14:45:03 03/11/17] [WARNING] CMySQLResult::GetRowDataByName - field not found ("fish_time") (Query: "SELECT users.*, accounts.admin, accounts.donate, accounts.helper, accounts.name_changes, accounts.number_changes FROM users, accounts WHERE users.id = 2 AND users.accountid = accounts.id")
+[14:45:03 03/11/17] [ERROR] cache_get_field_content_int - invalid datatype
